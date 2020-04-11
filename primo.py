@@ -27,4 +27,4 @@ for prime_n in prime_list:
 if((is_prime and (value > 1)) or (value==2)):
     print("The number ", value, " is a prime number")
 else:
-    print("It's not prime")
+    print("The number ", value, " is not a prime number")
